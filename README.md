@@ -1,1 +1,1 @@
-I created this game to learn about objects, classes, collision, time, updating and drawing the game on a program following a tutorial created by RyiSnow 
+I developed this game with the intention of learning programming concepts such as objects, classes, collision detection, time management, and fundamental processes of updating and rendering elements within a game environment. I used the help of a tutorial to gain practical insights into game development techniques crafted by RyiSnow, so credits to him!
